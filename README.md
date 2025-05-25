@@ -1,5 +1,5 @@
 🩺 Medical Certificate Generator
-A web-based tool for generating official medical certificates quickly and securely. Designed for clinics, hospitals, and doctors to streamline the certificate issuance process with customizable templates, patient data input, and printable/downloadable output.
+A web-based tool for generating official medical certificates quickly and securely. Designed for clinics, hospitals, and doctors to streamline the certificate issuance process with customizable templates, patient data input, and printable/downloadable output. ans
 
 📋 Features
 🧑‍⚕️ Doctor/Admin login system
