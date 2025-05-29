@@ -1,17 +1,14 @@
-🩺 Medical Certificate Generator
-A web-based tool for generating official medical certificates quickly and securely. Designed for clinics, hospitals, and doctors to streamline the certificate issuance process with customizable templates, patient data input, and printable/downloadable output. ans
+## Contributors
 
-📋 Features
-🧑‍⚕️ Doctor/Admin login system
+This project was developed collaboratively by the following team members:
 
-🧾 Dynamic medical certificate generation
-
-🗂️ Customizable certificate templates (name, condition, rest period, date, etc.)
-
-📅 Auto-filled dates and durations
-
-📥 PDF download or print option
-
-🛡️ Secure data handling and patient confidentiality
-
-🧠 Smart suggestions for common illnesses/rest durations
+- **Mohammed Musa Jidda** (Team Leader) – Documented the README, designed the database schema, and styled the application.
+- **Muhammed Yasir Gana** – Developed the login page.
+- **Abdussamad Nasir** – Created the `functions.php` file containing the core logic.
+- **Abubakar Lawal** – Implemented the `db-connect.php` file for database connection.
+- **Hauwa Shuaibu Danwanka** – Developed the `generate_pdf.php` file.
+- **Salisu Faisal** – Created the home page.
+- **Ibrahim Lawal** – Developed the `record_list.php` page.
+- **Muhammad Abdulrahman Darma** – Created the `manage_record.php` page.
+- **Nuraddeen Habibu** – Built the index page.
+- **Muazu Suwaid Shehu** – Implemented the `action.php` file.
